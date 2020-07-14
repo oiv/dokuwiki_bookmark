@@ -1,0 +1,7 @@
+base   bookmark
+author Otto Vainio
+email  otto@valjakko.net
+date   2020-07-14
+name   bookmark plugin
+desc   inser bookmark in page
+url    https://www.dokuwiki.org/plugin:bookmark
